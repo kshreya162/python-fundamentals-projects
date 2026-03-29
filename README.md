@@ -1,7 +1,5 @@
 # python-fundamentals-projects
 
-# Python Fundamentals Projects
-
 This repository contains beginner-level Python projects created while learning core programming concepts.
 
 ---
